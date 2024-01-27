@@ -6,7 +6,7 @@
   <li><h3>Frontend</h3></li>
   <li>React</li>
   <li>TypeScript</li>
-  <li>Redux Toolkit</li>
+  <li>Redux</li>
   <li>React Router Dom</li>
   <li>Axios</li>
   <li>SCSS modules</li>
